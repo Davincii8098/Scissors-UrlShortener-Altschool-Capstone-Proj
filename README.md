@@ -28,13 +28,13 @@ Brief is the new black, this is what inspires the team at Scissor. In today’s 
 - Open the terminal on your computer.
 - Clone the project to your local computer.
   `sh 
-git clone https://github.com/Psalmzee/Scissors-UrlShortener-Altschool-Capstone-Proj.git
+git clone https://github.com/Davincii8098/scissor-app
 `
 
 
 
 - Project: Scissors-UrlShortener
-- Built By: Samson Okeji
-- Email: engrsamsonokeji@gmail.com
-- Altschool Track: Backend Engineering (Nodes)
+- Built By: Gilbert Adah
+- Email: gilbertadah1@gmail.com
+- Altschool Track:Frontend Engineering 
 
